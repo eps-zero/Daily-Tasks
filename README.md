@@ -1,4 +1,4 @@
-# Daily-Tasks
+# Daily-Tasks-Tkinter
 
 ## Table of Contents
 
@@ -36,13 +36,13 @@ Before running the application, make sure you have the following prerequisites i
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/eps-zero/Daily-Tasks.git
+   git clone https://github.com/eps-zero/Daily-Tasks-Tkinter.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd Daily-Tasks
+   cd Daily-Tasks-Tkinter
    ```
 
 3. Install the required packages using pip:
