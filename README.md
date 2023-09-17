@@ -75,5 +75,3 @@ You can create .exe file just by typing this command:
 ```shell
 python setup.py build
 ```
-
-Feel free to customize this README to include more detailed instructions or information about your project as needed.
